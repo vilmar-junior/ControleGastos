@@ -9,6 +9,7 @@ import javax.swing.JOptionPane;
 public class Menu {
 	
 	Scanner teclado = new Scanner(System.in);
+	//TESTE
 	
 	private static final int OPCAO_MENU_CADASTRO = 1;
 	private static final int OPCAO_MENU_RELATORIO = 2;
